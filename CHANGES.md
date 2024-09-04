@@ -28,7 +28,7 @@ breaking changes, and mappings for the large list of deprecated functions.
 
 [Migration guide]: https://github.com/openssl/openssl/tree/master/doc/man7/migration_guide.pod
 
-### Changes between 3.0.13 and 3.0.13+quic [30 Jan 2024]
+### Changes between 3.0.15 and 3.0.15+quic [04 Sep 2024]
 
 * Add QUIC API support from BoringSSL
 
